@@ -1,0 +1,32 @@
+.w
+{
+    border: 1px solid #926363;
+    background: #4689ec;
+    color: white;
+    text-transform: capitalize;
+    width: 64px;
+    height: 36px;
+    text-align: center;
+    display: inline-block; 
+}
+#name{
+    border: 1px solid #926363;
+    width: 280px;
+    height: 32px;
+    display: inline-block;
+    color: blue;
+    text-transform: capitalize;
+    background: #9ea1a7;
+    text-indent: 10px;
+}
+#age
+{
+    border: 1px solid #926363;
+    width: 175px;
+    height: 32px;
+    display: inline-block;
+    color: blue;
+    text-transform: capitalize;
+    background: #9ea1a7;
+    text-indent: 10px;
+}
